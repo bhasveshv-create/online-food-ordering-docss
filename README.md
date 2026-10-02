@@ -23,7 +23,7 @@ Traditional food ordering methods can take more time and may involve manual comm
 * CSS
 * JavaScript
 * Git
-* GitHub
+* GitHubgit 
 
 ## Installation
 
